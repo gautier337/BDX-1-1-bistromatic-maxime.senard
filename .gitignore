@@ -1,0 +1,27 @@
+# gcc files
+a.out
+*.o
+*.a
+
+# emacs files
+#*#
+*~
+
+# personal libs / build script
+mylibs/
+mygcc
+mytest
+
+# temp files
+Makefile.ex
+tmp.c
+tmp
+#main.c
+main.bak
+vgcore*
+*.gcda
+*.gcno
+.vscode/
+
+# binary
+calc
